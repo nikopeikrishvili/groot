@@ -12,11 +12,11 @@ typedef struct {
 
 void init_answers(HodorAnswers * val) 
 {
-	val->answer[0] = strdup ("HODOR");
-	val->answer[1] = strdup ("hodor");
-	val->answer[2] = strdup ("HODOR!");
-	val->answer[3] = strdup ("hodor!");
-	val->answer[4] = strdup ("hooodooor!");
+	val->answer[0] = strdup ("GROOT");
+	val->answer[1] = strdup ("groot");
+	val->answer[2] = strdup ("GROOT!");
+	val->answer[3] = strdup ("groot!");
+	val->answer[4] = strdup ("grooootttt!");
 }
 
 char* get_answer() 
