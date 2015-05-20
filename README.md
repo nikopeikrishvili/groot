@@ -1,5 +1,5 @@
 # groot
-Inteligent bot Groot
+
 ###Compile
 ```
 popcorn@popcorn ~ $ gcc groot.c -o groot
