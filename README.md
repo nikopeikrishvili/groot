@@ -10,13 +10,13 @@ popcorn@popcorn ~ $ gcc groot.c -o groot
 ```
 popcorn@popcorn ~ $ ./groot 
 Write question: hello
-GROOT!
+I AM GROOT!
 Write question: hi
-GROOT
+I AM GROOT
 Write question: what?
-groot
+I am groot
 Write question: hm
-GROOT
+I AM GROOT
 Write question: 
 ```
 
